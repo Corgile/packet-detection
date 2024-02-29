@@ -1,0 +1,6 @@
+.idea
+cmake-build-*
+example
+logs
+cmake-build-torch-api
+include/vendor/*
